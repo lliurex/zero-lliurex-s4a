@@ -1,3 +1,9 @@
+zero-lliurex-s4a (0.1.14) bionic; urgency=medium
+
+  * Initial release to bionic
+
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Fri, 05 Oct 2018 14:16:10 +0200
+
 zero-lliurex-s4a (0.1.4) xenial; urgency=medium
 
   * Implemented changes to use EPI
