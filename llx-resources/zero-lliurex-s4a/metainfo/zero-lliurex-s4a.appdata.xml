@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component type="desktop-application">
+<id>zero-lliurex-s4a</id>
+<metadata_license>CC0-1.0</metadata_license>
+<name>zero-lliurex-s4a</name>
+<name xml:lang="es">Instalador del Scratch for Arduino</name>
+<name xml:lang="ca_ES.UTF-8@valencia">Instal·lador del Scratch for Arduino</name>
+<name xml:lang="ca_ES@valencia">Instal·lador del Scratch for Arduino</name>
+<name xml:lang="ca_ES">Instal·lador del Scratch for Arduino</name>
+<summary>Scratch for Arduino</summary>
+<summary xml:lang="es">Instalador del Scratch for Arduino</summary>
+<summary xml:lang="ca_ES.UTF-8@valencia">Instal·lador del Scratch for Arduino</summary>
+<summary xml:lang="ca_ES@valencia">Instal·lador del Scratch for Arduino</summary>
+<summary xml:lang="ca_ES">Instal·lador del Scratch for Arduino</summary>
+<description>
+<p>Scratch for Arduino installer. S4A is a Scratch modification that allows for simple programming of the Arduino open source hardware platform. It provides new blocks for managing sensors and actuators connected to Arduino. There is also a sensors report board similar to the PicoBoard one. The main aim of the project is attracting people to the programming world. The goal is also to provide a high level interface to Arduino programmers with functionalities such as interacting with a set of boards through user events.</p>
+<p xml:lang="es">Instalador del Scratch for Arduino. S4A es una modificación de Scratch que permite programar la plataforma de hardware libre Arduino de una forma sencilla. Proporciona bloques nuevos para tratar con sensores y actuadores connectados a una placa Arduino. También cuenta con un panel de sensores similar al de la PicoBoard. La finalidad principal del proyecto es atraer a gente al mundo de la programación. Otro de sus objetivos es proporcionar una interfaz de alto nivel para programadores de Arduino con funcionalidades tales como la interacción con un conjunto de placas mediante eventos de usuario.</p>
+<p xml:lang="ca_ES.UTF-8@valencia">Instal·lador del Scratch for Arduino. S4A és una modificació d'Scratch que permet programar la plataforma de hardware lliure Arduino d'una manera senzilla. Proporciona blocs nous per tractar amb sensors i actuadors connectats a una placa Arduino. També compta amb un panell de sensors similar al de la PicoBoard. La finalitat principal del projecte és atreure gent al món de la programació. Un altre objectiu és proporcionar una interfície d'alt nivell per a programadors d'Arduino amb funcionalitats tals com la interacció amb un conjunt de plaques mitjançant esdeveniments d'usuari.</p>
+<p xml:lang="ca_ES@valencia">Instal·lador del Scratch for Arduino. S4A és una modificació d'Scratch que permet programar la plataforma de hardware lliure Arduino d'una manera senzilla. Proporciona blocs nous per tractar amb sensors i actuadors connectats a una placa Arduino. També compta amb un panell de sensors similar al de la PicoBoard. La finalitat principal del projecte és atreure gent al món de la programació. Un altre objectiu és proporcionar una interfície d'alt nivell per a programadors d'Arduino amb funcionalitats tals com la interacció amb un conjunt de plaques mitjançant esdeveniments d'usuari.</p>
+<p xml:lang="ca_ES">Instal·lador del Scratch for Arduino. S4A és una modificació d'Scratch que permet programar la plataforma de hardware lliure Arduino d'una manera senzilla. Proporciona blocs nous per tractar amb sensors i actuadors connectats a una placa Arduino. També compta amb un panell de sensors similar al de la PicoBoard. La finalitat principal del projecte és atreure gent al món de la programació. Un altre objectiu és proporcionar una interfície d'alt nivell per a programadors d'Arduino amb funcionalitats tals com la interacció amb un conjunt de plaques mitjançant esdeveniments d'usuari.</p>
+</description>
+<categories>
+<category>Lliurex</category>
+<category>Zomando</category>
+<category>Utility</category>
+</categories>
+<icon type="cached">s4a</icon>
+
+<keywords>
+<keyword>zero</keyword>
+<keyword>lliurex</keyword>
+<keyword>s4a</keyword>
+<keyword>zero-lliurex-s4a</keyword>
+<keyword>Zomando</keyword>
+</keywords>
+<keywords xml:lang="es">
+<keyword>Instalador</keyword>
+<keyword>del</keyword>
+<keyword>Scratch</keyword>
+<keyword>for</keyword>
+<keyword>Arduino</keyword>
+<keyword>Zomando</keyword>
+</keywords>
+<keywords xml:lang="ca_ES.UTF-8@valencia">
+<keyword>Instal·lador</keyword>
+<keyword>Zomando</keyword>
+</keywords>
+<keywords xml:lang="ca_ES">
+<keyword>Zomando</keyword>
+
+</keywords>
+</component>

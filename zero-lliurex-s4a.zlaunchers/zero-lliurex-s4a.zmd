@@ -1,0 +1,5 @@
+#!/bin/bash
+
+epi-gtk /usr/share/zero-lliurex-s4a/s4a.epi
+
+exit 0

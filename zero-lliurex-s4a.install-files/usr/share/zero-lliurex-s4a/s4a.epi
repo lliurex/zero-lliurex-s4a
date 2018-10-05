@@ -1,0 +1,8 @@
+{
+	"type":"apt",
+	"pkg_list": [{"name":"s4a","key_store":"zero-lliurex-s4a"}],
+	"script": {"name":"/usr/share/zero-lliurex-s4a/s4a_script","remove":true},
+	"force32":true,
+	"zomando":"zero-lliurex-s4a"
+	
+	}
