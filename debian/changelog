@@ -1,3 +1,9 @@
+zero-lliurex-s4a (0.1.16) bionic; urgency=medium
+
+  * Added custom icon to show in epi
+  
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Tue, 07 Jul 2020 11:20:29 +0200
+
 zero-lliurex-s4a (0.1.15) bionic; urgency=medium
 
   * Changed adm group by sudo
