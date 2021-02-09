@@ -1,3 +1,9 @@
+zero-lliurex-s4a (0.1.17) bionic; urgency=medium
+
+  * Added custom name to show in epi
+  
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Tue, 09 Feb 2021 09:56:49 +0100
+
 zero-lliurex-s4a (0.1.16) bionic; urgency=medium
 
   * Added custom icon to show in epi
