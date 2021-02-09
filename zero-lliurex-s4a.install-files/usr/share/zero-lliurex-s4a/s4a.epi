@@ -1,6 +1,6 @@
 {
 	"type":"apt",
-	"pkg_list": [{"name":"s4a","key_store":"zero-lliurex-s4a","custom_icon":"s4a.svg"}],
+	"pkg_list": [{"name":"s4a","key_store":"zero-lliurex-s4a","custom_name":"Scratch for Arduino","custom_icon":"s4a.svg"}],
 	"script": {"name":"/usr/share/zero-lliurex-s4a/s4a_script","remove":true},
 	"custom_icon_path":"/usr/share/icons/lliurex/apps/48/",
 	"force32":true,
