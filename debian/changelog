@@ -1,3 +1,9 @@
+zero-lliurex-s4a (0.2.18) focal; urgency=medium
+
+  * Fixed zero app file
+  
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Tue, 25 May 2021 17:40:09 +0200
+
 zero-lliurex-s4a (0.2.17) focal; urgency=medium
 
   * Initial release for focal
