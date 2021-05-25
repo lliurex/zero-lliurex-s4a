@@ -1,10 +1,10 @@
 Name=zero-lliurex-s4a
 Name[es]=Instalador del Scratch for Arduino
-Name[qcv]=Instal·lador del Scratch for Arduino
+Name[ca@valencia]=Instal·lador del Scratch for Arduino
 Name[ca_ES]=Instal·lador del Scratch for Arduino
 Comment=Scratch for Arduino
 Comment[es]=Instalador del Scratch for Arduino
-Comment[qcv]=Instal·lador del Scratch for Arduino
+Comment[ca@valencia]=Instal·lador del Scratch for Arduino
 Comment[ca_ES]=Instal·lador del Scratch for Arduino
 Icon=s4a
 Category=Software
