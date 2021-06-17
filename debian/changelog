@@ -1,3 +1,9 @@
+zero-lliurex-s4a (0.1.18) bionic-updates; urgency=medium
+
+  * Fixed zero app file
+  
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Thu, 17 Jun 2021 11:35:02 +0200
+
 zero-lliurex-s4a (0.1.17) bionic; urgency=medium
 
   * Added custom name to show in epi
