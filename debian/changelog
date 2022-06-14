@@ -1,3 +1,9 @@
+zero-lliurex-s4a (0.2.20) lliurex22; urgency=medium
+
+  * Allow all groups
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Tue, 14 Jun 2022 13:58:47 +0200
+
 zero-lliurex-s4a (0.2.19) focal; urgency=medium
 
   * Fixed zero app file
