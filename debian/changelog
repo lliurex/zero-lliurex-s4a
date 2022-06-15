@@ -1,3 +1,9 @@
+zero-lliurex-s4a (0.2.21) lliurex22; urgency=medium
+
+  * Merge correctly
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Wed, 15 Jun 2022 19:03:27 +0200
+
 zero-lliurex-s4a (0.2.20) lliurex22; urgency=medium
 
   * Allow all groups
