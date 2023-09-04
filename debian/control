@@ -1,0 +1,13 @@
+Source: zero-lliurex-s4a
+Section: admin
+Priority: optional
+Maintainer: Equipo LliureX <lliurex@gva.es>
+Uploaders: Equipo LliureX <lliurex@gva.es>
+Build-Depends: llxsrchelper,debhelper (>= 10),zero-dev
+Standards-Version: 4.1.2
+
+Package: zero-lliurex-s4a
+Architecture: all
+Depends: ${misc:Depends},epi-gtk
+Description: Scratch for Arduino
+ Installer for S4A
