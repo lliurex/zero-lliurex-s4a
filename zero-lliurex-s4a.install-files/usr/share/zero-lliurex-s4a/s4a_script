@@ -2,7 +2,7 @@
 
 
 ACTION="$1"
-PKGS_TO_INSTALL="libsm6:i386 libice6:i386 libpangocairo-1.0-0:i386 libcairo2:i386 libpulse0:i386 libasound2:i386 libx11-6:i386 libc6:i386"
+PKGS_TO_INSTALL="libsm6:i386 libice6:i386 libpangocairo-1.0-0:i386 libcairo2:i386 libpulse0:i386 libx11-6:i386 libc6:i386"
 
 TMP_LISTA="/tmp/lista_s4a.txt"
 
