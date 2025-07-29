@@ -1,3 +1,9 @@
+zero-lliurex-s4a (0.12.21+lliurex25) noble; urgency=medium
+
+  * Initial release for noble
+
+ -- Juanma1980 <juanma1980@gmail.com>  Tue, 29 Jul 2025 09:48:20 +0200
+
 zero-lliurex-s4a (0.12.21) jammy; urgency=medium
 
   * Initial release for Jammy
